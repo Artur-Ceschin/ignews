@@ -2,7 +2,7 @@
   <img alt="Logo" src="./public/images/logo.svg" alt="ig.News">
 </h1>
 
-![gif project](./Github/ignews.gif)
+![gif project](./src/Github/ignews.gif)
 
 <h1 align="center">
     ig.news - Next.js
@@ -16,7 +16,10 @@ The project aims to study and develop an application in ReactJS with NextJS for 
 
 The application was developed using the NextJS framework applying concepts such as external API consumption, Root API, Server Side Rendering (SSR), Static Site Generation (SSG), STRIPE for subscription payments, NextAuth for authentication with Github, FaunaDB to store information database and Prismic CMS for adding and managing post content.
 
-This project was developed during the chapter 03 from the Ignit Course [Ignite da Rocketseat](https://rocketseat.com.br/)
+This project was developed during the chapter 03 from the [Ignite course](https://rocketseat.com.br/)
+
+Figma Link 🎨
+- [Ignews Figma](https://www.figma.com/file/gl0fHkQgvaUfXNjuwGtDDs/ig.news)
 
 ---
 
