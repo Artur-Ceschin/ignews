@@ -75,8 +75,6 @@ $ yarn dev
 
 ---
 
-&nbsp;
-
 ### 🔗 Link for the online project
 
 [Ignews](https://ignews-delta-wheat.vercel.app/)
