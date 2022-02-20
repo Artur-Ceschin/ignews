@@ -9,7 +9,6 @@
 </h1>
 <p align="center">Project create during the React Ignite 🚀</p>
 
-
 ## About this project
 
 The project aims to study and develop an application in ReactJS with NextJS for post listing and subscription system.
@@ -19,6 +18,7 @@ The application was developed using the NextJS framework applying concepts such 
 This project was developed during the chapter 03 from the [Ignite course](https://rocketseat.com.br/)
 
 Figma Link 🎨
+
 - [Ignews Figma](https://www.figma.com/file/gl0fHkQgvaUfXNjuwGtDDs/ig.news)
 
 ---
@@ -52,7 +52,6 @@ Create accounts in this external services:
 - [FaunaDB](https://fauna.com/)
 - [Prismic CMS](https://prismic.io/)
 
-
 ## Starting 🚀
 
 ```bash
@@ -66,7 +65,7 @@ $ cd ignews
 $ yarn
 
 # Execute stripe on your terminal
-$ stripe listen --forward-to localhost:3000/api/webhooks 
+$ stripe listen --forward-to localhost:3000/api/webhooks
 
 # Run the project
 $ yarn dev
@@ -76,9 +75,14 @@ $ yarn dev
 
 ---
 
-## Licença
+&nbsp;
 
-Distribuído sob a licença MIT. Veja [LICENSE](LICENSE) para mais informações.
+### 🔗 Link for the online project
+
+[Ignews](https://ignews-delta-wheat.vercel.app/)
+
+<p><strong>Warning</strong>, 
+Stripe has a test token that only lasts a few days and I won't update it when it expires, so it won't be testing the purchase system.</p>
 
 ---
 
@@ -87,9 +91,10 @@ Distribuído sob a licença MIT. Veja [LICENSE](LICENSE) para mais informações
 This project is under license from MIT. For more details, see the [LICENSE](./LICENSE.md) file.
 
 ### Author
+
 ---
 
 Made with ❤️ by Artur Ceschin 👋🏽 Please fell free to contact me!
 <br/>
-[![Linkedin Badge](https://img.shields.io/badge/-Artur-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/artur-peres-ceschin-programador/)](https://www.linkedin.com/in/artur-peres-ceschin-programador/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Artur-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/artur-peres-ceschin-programador/)](https://www.linkedin.com/in/artur-peres-ceschin-programador/)
 [![Gmail Badge](https://img.shields.io/badge/-artur.ceschin@.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:artur.ceschin@gmail.com)](mailto:artur.ceschin@gmail.com)
